@@ -12,4 +12,5 @@ package com.mycompany.mavenproject2tpgitgenielogicielhenrycamille;
 public class Client {
     //ma classe
     //WTF le package
+    // création de problème.
 }
